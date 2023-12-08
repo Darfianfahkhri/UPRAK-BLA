@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url('image/kater\ 1.jpg');
+    background-attachment: fixed;
+    color : (#e9ecef);
+    background-size:  cover;
+    background-position: 0 -50px;
+    height: 550px;
+    padding : 5row;
+    text-shadow: 100px;
+
+}
+
+
